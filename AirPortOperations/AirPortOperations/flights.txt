@@ -1,0 +1,15 @@
+Terminals:
+
+Terminal: International
+Planes:
+Boeing (Standard), Capacity: 200
+Airbus (Premium), Capacity: 0
+
+Bookings:
+
+Terminal: Domestic
+Planes:
+AirIndia (Premium), Capacity: 150
+Indigo (Standard), Capacity: 0
+
+Bookings:
