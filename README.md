@@ -8,7 +8,7 @@ The Airport Management System is a Java-based application designed to simulate t
 - **Terminal Management**: Handles international and domestic terminals, planes, and bookings.
 - **Plane Management**: Includes PassengerPlane and CargoPlane classes to represent different types of planes.
 - **Booking System**: Interfaces and classes to book, cancel, and retrieve flight details.
-- **Flight Operations**: Manages takeoff and landing procedures for planes.
+- **Flight Operations**: Manages takeoff and landing procedures for planes.    
 - **Passenger and Crew Management**: Tracks passenger details and crew members.
 
 ## Key Components
